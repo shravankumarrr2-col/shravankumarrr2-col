@@ -1,16 +1,79 @@
-## Hi there 👋
 
-<!--
-**shravankumarrr2-col/shravankumarrr2-col** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  # Hi there, I'm Shravan Kumar 👋
+  ### 🤖 Mechatronics Engineer | Embedded Systems & Robotics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=550&lines=Mechatronics+%26+Robotics+Engineer;Embedded+Systems+%7C+IoT+%7C+Automation;CAD+Design+%26+Rapid+Prototyping;Bridging+Hardware+and+Software" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I am a passionate **Mechatronics Engineer** working at the intersection of **Mechanical Systems**, **Electronics**, and **Intelligent Software**. I specialize in designing and prototyping automated electromechanical systems, robotic platforms, and IoT-enabled hardware.
+
+- 🔭 **Currently working on:** Autonomous mobile robots & embedded firmware development.
+- 🌱 **Learning & Exploring:** ROS 2 (Robot Operating System), Computer Vision, and Digital Twins.
+- 💡 **Core Interests:** Robotics, Automation, Control Systems, Edge Computing, and Rapid Prototyping.
+- 💬 **Ask me about:** C/C++, Microcontrollers (STM32/ESP32/Arduino), CAD Modelling (SolidWorks), and Sensor Integration.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💻 Programming & Simulation
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-E65C00?style=flat-square&logo=mathworks&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+#### ⚡ Embedded Systems & Electronics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+#### 📐 Mechanical CAD & Prototyping
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Autodesk Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=flat-square&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-00ADB5?style=flat-square&logo=makerbot&logoColor=white)
+
+#### 📡 Protocols & Tools
+`I2C` • `SPI` • `UART` • `CAN Bus` • `MQTT` • `Git` • `Linux`
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Autonomous Mobile Robot (AMR)** | Differential drive robot capable of SLAM and autonomous navigation using LiDAR and ROS. | `ROS` `Python` `C++` `LiDAR` |
+| **Smart IoT Automation System** | Multi-sensor monitoring and telemetry dashboard with real-time cloud data logging. | `ESP32` `MQTT` `C++` `FreeRTOS` |
+| **Robotic Arm Manipulator** | 4-DOF robotic arm with inverse kinematics control and customized 3D-printed end-effector. | `SolidWorks` `Arduino` `MATLAB` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shravankumarrr2-col&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shravan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankumarrr2-col&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by Shravan Kumar ⚙️</sub>
+</div>
